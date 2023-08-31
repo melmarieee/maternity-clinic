@@ -44,3 +44,12 @@ form{
 form textarea{
   resize: none;
 }
+main{
+  display: flex;
+  flex-direction: column;
+}
+.heading-wrapper{
+  display: block;
+  position: relative;
+  text-align: left;
+}
