@@ -2,7 +2,7 @@
 /* background-color: #FF75C4; Background color of the modal*/
 /* color: #2E2E2E; font color*/
 /* font-family: 'Source Sans 3', sans-serif; */
-
+@import url(appointment.css);
 
 *{
   margin: 0;
@@ -11,6 +11,4 @@
   background-color: #FFF0F9;
   font-family: 'Source Sans 3', sans-serif;
 }
-
-@import url(navbar.css);
 
