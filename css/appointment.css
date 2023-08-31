@@ -16,7 +16,7 @@
 .heading2-container p{
   background-color: white;
  }
-form{
+.form-appointment{
   display: flex;
   width: 100%;
   justify-content: space-around;
