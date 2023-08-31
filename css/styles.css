@@ -6,7 +6,6 @@
 @import url(record.css);
 @import url(hero.css);
 @import url(modal.css);
-
 @import url(modal-signup.css);
 @import url(appointment.css);
 
@@ -17,3 +16,4 @@
   /* background-color: #FFF0F9; */
   font-family: 'Source Sans 3', sans-serif;
 }
+

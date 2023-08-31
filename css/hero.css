@@ -1,11 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
-
-        
-.hero {
+ .hero {
     background-image: url('https://www.hcahealthcare.co.uk/-/media/maternity-campaign-hero.jpg');
     background-size: cover;
     background-position: center top;
-    height: 50vh;
+    height: 80vh;
     color: #fff;
     text-align: center;
     display: flex;
@@ -18,13 +15,14 @@
     font-size: 3rem;
     margin-bottom: 20px;
     text-shadow: #000000 3px 1px 3px ;
-
 }
-.hero p {
+.hero h3 {
     font-size: 1.5rem;
-    color: #fff;
-    text-shadow: #000000 2px 1px 2px;
+    margin-bottom: 20px;
+    text-shadow: #000000 3px 1px 3px ;
+    margin-top: -20px;
 }
+
 .hero button {
     padding: 10px 30px;
     font-weight: 0;
@@ -41,6 +39,14 @@
     color: #fff;
     border-radius: 5px;
     cursor: pointer;
+}
+.hero a{
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
+.hero a:hover{
+    color: #d848b9;
 }
 .hero button:hover {
     transition: 1000ms;
