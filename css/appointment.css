@@ -4,13 +4,18 @@
   margin-left: 100px;
   margin-top: 30px;
 }
+.heading1-container p{
+ background-color: white;
+}
 .heading2-container{
   display: flex;
   flex-direction: column;
   margin-left: 100px;
   margin-top: 10px;
 }
-
+.heading2-container p{
+  background-color: white;
+ }
 form{
   display: flex;
   width: 100%;

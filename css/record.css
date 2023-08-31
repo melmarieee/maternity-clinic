@@ -1,4 +1,4 @@
-#body {
+main {
     width: 100%;
     height: 100vh;
     display: flex;
@@ -112,10 +112,10 @@
 
 .h1-registration {
     position: absolute;
-    top: 30vh;
+    top: 20vh;
 }
 
-.h1-registration h1,
+/* .h1-registration h1,
 p {
     background-color: #FFF0F9;
-}
+} */

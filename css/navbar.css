@@ -35,14 +35,11 @@
     margin-top: 60px; /* Adjust as needed */
   }
 
-
-
-
   footer {
-    background-color: #ff75c4;
   text-align: center;
   padding: 5px 0;
-  position: absolute;
+  /* position: absolute; */
   bottom: 0;
   width: 100%;
+  margin-top: 100px;
   }
